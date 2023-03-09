@@ -73,7 +73,26 @@
       "imgUrl": "/img/sneakers/12.jpg"
     }
   ],
-  "cart": [],
+  "cart": [
+    {
+      "id": 6,
+      "title": "Мужские Кроссовки Nike Kyrie 7",
+      "price": 11290,
+      "imgUrl": "/img/sneakers/6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Мужские Кроссовки Jordan Air Jordan 11",
+      "price": 10799,
+      "imgUrl": "/img/sneakers/7.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Мужские Кроссовки Nike Air Max 270",
+      "price": 12990,
+      "imgUrl": "/img/sneakers/2.jpg"
+    }
+  ],
   "favorites": [
     {
       "id": 2,
