@@ -150,6 +150,23 @@
         }
       ],
       "id": 4
+    },
+    {
+      "items": [
+        {
+          "id": 4,
+          "title": "Кроссовки Puma X Aka Boku Future Rider",
+          "price": 8990,
+          "imgUrl": "/img/sneakers/4.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Мужские Кроссовки Under Armour Curry 8",
+          "price": 15190,
+          "imgUrl": "/img/sneakers/5.jpg"
+        }
+      ],
+      "id": 5
     }
   ]
 }
